@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+    background: #EEE8AA;
+}
+
+#content {
+    width: 600px;
+    margin: 10px auto;
+    padding: 5px 20px;
+    background: #87CEFA;
+    border: 1px solid #0000FF;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	color: black;
+	font-weight: bold;
+	text-align: center;
+}
+
+label {
+    display: block;
+    width: 20em;
+    text-align: right;
+    padding-right: 1em;
+    float: left;
+}
+
+input {
+    display: block;
+    float: left;
+    width: 100px;
+}
+
+#futureValue {
+    color: #0000FF;
+}
+
+br {
+    clear: left;
+}
